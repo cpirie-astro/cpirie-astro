@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Corey Pirie @cpirie-astro
 - 👀 I’m interested in answering questions about Cosmic Star formation
-- 📫 How to reach me: cpir@roe.ac.uk
+- 📫 How to reach me: corey.pirie@ed.ac.uk
 
 New to GitHub!
 
